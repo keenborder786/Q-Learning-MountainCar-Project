@@ -2,7 +2,7 @@
 
 # Project Title
 
-A full Q-Learning Reinforcement project using GYM enviornment 
+A full Q-Learning Reinforcement project using GYM enviornment and also in my own environment
 
 ## Getting Started
 
